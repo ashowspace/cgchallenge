@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yOKqO+UqOFmONUC0OmSmCLyvDLREQmrugqezudJ0kEdW068OLclFC87uXmnruH4JDdfeHCTNejDvdwp/AkrKLA==",
+  "dgSpecHash": "GrhVDyhgsdKwa7sFaIfiTvwX1+uOuNAnHE7Uo0z98D1N7xy5tVavBB1kz++UZsKbOqxiuhWA753BG0NqmFwK1A==",
   "success": true,
-  "projectFilePath": "/Users/andrewshowell/cgchallenge3/cgchallenge/CampGladiatorChallenge/CampGladiatorChallenge.csproj",
+  "projectFilePath": "C:\\cgchallenge\\CampGladiatorChallenge\\CampGladiatorChallenge.csproj",
   "expectedPackageFiles": [
-    "/Users/andrewshowell/.nuget/packages/awssdk.core/3.7.2.5/awssdk.core.3.7.2.5.nupkg.sha512",
-    "/Users/andrewshowell/.nuget/packages/awssdk.dynamodbv2/3.7.0.54/awssdk.dynamodbv2.3.7.0.54.nupkg.sha512",
-    "/Users/andrewshowell/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\ashowell\\.nuget\\packages\\awssdk.core\\3.7.2.5\\awssdk.core.3.7.2.5.nupkg.sha512",
+    "C:\\Users\\ashowell\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.0.54\\awssdk.dynamodbv2.3.7.0.54.nupkg.sha512",
+    "C:\\Users\\ashowell\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ashowell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
   ],
   "logs": []
 }

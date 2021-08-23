@@ -6,13 +6,13 @@ First, you 'll need the appsettings file Nico has been emailed. Place this in th
 You'll need to build and run the CampGladiatorChallenge solution in the root, this can be done from the command line or from your app of choice. 
 
 https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-run
-
+Requires latest dotnet - https://dotnet.microsoft.com/download/dotnet/3.1
 
 ## Usage
 
 To send a trainer: 
-I used postman, use the API tool of your choice. 
-URL: https://localhost:5001/trainer/upsertTrainer/
+I used postman, use the API tool of your choice. Turn off SSL verification. 
+URL: http://localhost:5000/trainer/upsertTrainer/
 
 Body(Type: form - data): 
 -email: 
@@ -20,9 +20,11 @@ Body(Type: form - data):
 - first_name: 
 -last_name:
 
+The response body should inclide a guid for the trainer - ex da1838b9-2dbe-4893-8aed-3fa4412acf75. 
 
-To retrieve a trainer: 
-https://localhost:5001/trainer/{trainerId}
+
+To retrieve a trainer - use the trainer ID created in your send step or use the example above. 
+http://localhost:5000/trainer/{trainerId} - 
 
 Things I would do to make this complete:
 Validation:
