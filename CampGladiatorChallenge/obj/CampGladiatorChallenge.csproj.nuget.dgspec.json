@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/andrewshowell/Projects/CampGladiatorChallenge/CampGladiatorChallenge/CampGladiatorChallenge.csproj": {}
+    "/Users/andrewshowell/cgchallenge3/cgchallenge/CampGladiatorChallenge/CampGladiatorChallenge.csproj": {}
   },
   "projects": {
-    "/Users/andrewshowell/Projects/CampGladiatorChallenge/CampGladiatorChallenge/CampGladiatorChallenge.csproj": {
+    "/Users/andrewshowell/cgchallenge3/cgchallenge/CampGladiatorChallenge/CampGladiatorChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/andrewshowell/Projects/CampGladiatorChallenge/CampGladiatorChallenge/CampGladiatorChallenge.csproj",
+        "projectUniqueName": "/Users/andrewshowell/cgchallenge3/cgchallenge/CampGladiatorChallenge/CampGladiatorChallenge.csproj",
         "projectName": "CampGladiatorChallenge",
-        "projectPath": "/Users/andrewshowell/Projects/CampGladiatorChallenge/CampGladiatorChallenge/CampGladiatorChallenge.csproj",
+        "projectPath": "/Users/andrewshowell/cgchallenge3/cgchallenge/CampGladiatorChallenge/CampGladiatorChallenge.csproj",
         "packagesPath": "/Users/andrewshowell/.nuget/packages/",
-        "outputPath": "/Users/andrewshowell/Projects/CampGladiatorChallenge/CampGladiatorChallenge/obj/",
+        "outputPath": "/Users/andrewshowell/cgchallenge3/cgchallenge/CampGladiatorChallenge/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/andrewshowell/.config/NuGet/NuGet.Config"

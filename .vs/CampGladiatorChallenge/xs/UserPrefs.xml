@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6C225C9F-68AD-4B1F-A0E8-5B809D29C51B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmptyTextFile.txt">
+    <Files>
+      <File FileName="EmptyTextFile.txt" Line="33" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CampGladiatorChallenge" expanded="True" selected="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="CampGladiatorChallenge" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CampGladiatorChallenge PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

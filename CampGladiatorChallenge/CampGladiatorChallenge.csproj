@@ -9,6 +9,7 @@
     <None Remove="AWSSDK.DynamoDBv2" />
     <None Remove="DataAccessLayer\" />
     <None Remove="Newtonsoft.Json" />
+    <None Remove="EmptyTextFile.txt" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="AWSSDK.DynamoDBv2" Version="3.7.0.54" />
@@ -16,5 +17,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DataAccessLayer\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EmptyTextFile.md" />
   </ItemGroup>
 </Project>
