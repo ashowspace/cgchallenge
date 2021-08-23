@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g4p8tTepZ8nEmG+jW+SfXXkXVnTh1jmXcSil1l+0wRcuXTupGBtyp0jrWy0CqIAjBTksW0X36mrZ8Ku8sNoa+w==",
+  "success": true,
+  "projectFilePath": "/Users/andrewshowell/Projects/CampGladiatorChallenge/CampGladiatorChallenge/CampGladiatorChallenge.csproj",
+  "expectedPackageFiles": [
+    "/Users/andrewshowell/.nuget/packages/awssdk.core/3.7.2.5/awssdk.core.3.7.2.5.nupkg.sha512",
+    "/Users/andrewshowell/.nuget/packages/awssdk.dynamodbv2/3.7.0.54/awssdk.dynamodbv2.3.7.0.54.nupkg.sha512",
+    "/Users/andrewshowell/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
